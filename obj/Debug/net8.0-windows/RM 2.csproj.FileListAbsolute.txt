@@ -1,0 +1,77 @@
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\RM 2.exe
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\RM 2.deps.json
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\RM 2.runtimeconfig.json
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\RM 2.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\RM 2.pdb
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.csproj.AssemblyReference.cache
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM_2.Form1.resources
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.csproj.GenerateResource.cache
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.AssemblyInfoInputs.cache
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.AssemblyInfo.cs
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.csproj.CoreCompileInputs.cache
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.csproj.Up2Date
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\refint\RM 2.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.pdb
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM 2.genruntimeconfig.cache
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\ref\RM 2.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM_2.Properties.Resources.resources
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM_2.Main.resources
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM_2.frmHome.resources
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Jadriel Saniel\source\repos\C#\RM 2\RM 2\obj\Debug\net8.0-windows\RM_2.SampleAdd.resources
